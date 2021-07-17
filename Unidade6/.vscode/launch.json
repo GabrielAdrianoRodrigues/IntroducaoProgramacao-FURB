@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Uni6Exe09",
+            "request": "launch",
+            "mainClass": "Uni6Exe09",
+            "projectName": "Unidade6_97631a64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni6Exe08",
+            "request": "launch",
+            "mainClass": "Uni6Exe08",
+            "projectName": "Unidade6_97631a64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni6Exe07L",
+            "request": "launch",
+            "mainClass": "Uni6Exe07L",
+            "projectName": "Unidade6_97631a64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni6Exe07",
+            "request": "launch",
+            "mainClass": "Uni6Exe07",
+            "projectName": "Unidade6_97631a64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni6Exe05",
+            "request": "launch",
+            "mainClass": "Uni6Exe05",
+            "projectName": "Unidade6_97631a64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni6Exe04",
+            "request": "launch",
+            "mainClass": "Uni6Exe04",
+            "projectName": "Unidade6_97631a64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni6Exe01",
+            "request": "launch",
+            "mainClass": "Uni6Exe01",
+            "projectName": "Unidade6_97631a64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni6Exe02",
+            "request": "launch",
+            "mainClass": "Uni6Exe02",
+            "projectName": "Unidade6_97631a64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni6Exe03",
+            "request": "launch",
+            "mainClass": "Uni6Exe03",
+            "projectName": "Unidade6_97631a64"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni6Exe06",
+            "request": "launch",
+            "mainClass": "Uni6Exe06",
+            "projectName": "Unidade6_97631a64"
+        }
+    ]
+}
